@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FinalProject_Group4</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="titles">
+        <item>math</item>
+        <item>english</item>
+        <item>computer</item>
+    </string-array>
+    <string-array name="infos">
+        <item>hw10</item>
+        <item>presentation</item>
+        <item>final project</item>
+    </string-array>
+    <string-array name="dues">
+        <item>6/11</item>
+        <item>6/17</item>
+        <item>6/13</item>
+    </string-array>
+    <string-array name="dos">
+        <item>6/10~6/11</item>
+        <item>6/16</item>
+        <item>6/12</item>
+    </string-array>
+</resources>
